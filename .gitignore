@@ -1,0 +1,9 @@
+.sync.ffs_db
+.DS_Store
+counter.txt
+sitemap.xml
+**/.DS_Store
+**/counter.txt
+**/sitemap.xml
+**/error_log
+sync.ffs_lock
