@@ -12,10 +12,10 @@
 $baseUrl = 'https://wordofgod.in/healing-bible-verses';
 
 // You can also auto-detect from server
-if (isset($_SERVER['HTTP_HOST'])) {
-    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
-    $baseUrl = $protocol . '://' . $_SERVER['HTTP_HOST'];
-}
+//if (isset($_SERVER['HTTP_HOST'])) {
+  //  $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+    //$baseUrl = $protocol . '://' . $_SERVER['HTTP_HOST'];
+//}
 
 $langDir = __DIR__ . '/languages';
 
