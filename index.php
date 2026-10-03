@@ -129,6 +129,10 @@ sort($tracks);
             No Copyright, Freely Copy and Distribute (as per Matthew 10:8)
         </div>
         <div>
+                <a href="https://www.wordofgodteam.com/" target="_blank" rel="noopener">
+                     About Us
+                </a>
+                <span class="footer-separator">|</span>
                 <a href="https://wordofgod.in/good-news-collections/" target="_blank">
                      Good News Collections
                 </a>
